@@ -1,0 +1,22 @@
+.wrapper{
+    background-image: url("../img/philippe-toupet-320689-unsplash.jpg");
+    height: 650px;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    
+}
+.myHeader{
+    position: absolute;
+    top:55%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    z-index:5;
+    h3{
+        margin-bottom:30px;
+    }
+    p{
+        margin-bottom:50px;
+    }
+    
+}

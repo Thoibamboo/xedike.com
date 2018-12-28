@@ -1,0 +1,72 @@
+
+/*FOOTER*/
+.bg6{
+  background: #f0f0f0;
+}
+.flex-w{
+    display: flex;
+     flex-wrap: wrap;
+}
+.w-size6 {
+    width: 35%;
+    padding-left: 30px;
+}
+.p-r-15 {
+    padding-right: 15px;
+}
+.w-size7 {
+    width: 21%;
+}
+.p-l-15 {
+    padding-left: 15px;
+}
+.p-t-30 {
+    padding-top: 30px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+body, html {
+    height: 100%;
+    font-family: Montserrat-Regular, sans-serif;
+    font-weight: 400;
+}
+.s-text12 {
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    color: #222222;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+.p-b-30 {
+    padding-bottom: 30px;
+}
+
+h4{
+  margin: 0px;
+}
+ h4 {
+    font-size: 1.5rem;
+}
+h4 {
+    display: block;
+    -webkit-margin-before: 1.33em;
+    -webkit-margin-after: 1.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.p-b-9 {
+    padding-bottom: 9px;
+}
+ul, li {
+    margin: 0px;
+    list-style-type: none;
+}
+.p-t-30 {
+    padding-top: 30px;
+}
